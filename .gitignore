@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+artifacts/
+
+# Packages
+*.nupkg
+*.snupkg
+*.dll
+*.exe
+
+# Logs
+*.log
+
+# Secrets
+appsettings.Development.json
+appsettings.*.json
+
+# Other
+*.dbmdl
+*.bak
+*.mdf
+*.ldf
